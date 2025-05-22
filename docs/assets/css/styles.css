@@ -18,7 +18,7 @@ body {
 .content-container {
 	display: grid;
 	width: 80%;
-	min-height: 100dvh;
+	height: 100%;
 	grid-template-rows: auto 1fr auto;
 	justify-content: center;
 
